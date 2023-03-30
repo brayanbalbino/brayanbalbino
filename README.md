@@ -3,7 +3,7 @@
 - 📚 Graduando em Desenvolvimento Full Stack pela Estácio
 - 🧑‍💻 Estudando Python
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanbalbino&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Banb GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanbalbino&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
