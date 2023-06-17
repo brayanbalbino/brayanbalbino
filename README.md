@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Brayan Balbino
 
 - 📚 Graduando em Desenvolvimento Full Stack pela Estácio
-- 🧑‍💻 Estudando Python
+- 🧑‍💻 Mundo 1 - Estudando Python
 
 ![Banb GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanbalbino&show_icons=true&theme=panda)
 
